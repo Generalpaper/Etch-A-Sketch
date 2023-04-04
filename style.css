@@ -1,0 +1,19 @@
+body {
+    background-color:grey;
+    box-sizing: border-box;
+}
+
+#container {
+    height:960px;
+    width: 960px;
+    background-color: white;
+}
+
+.row {
+    display:flex;
+    box-sizing:border-box;
+}
+
+.square {
+    border: 1px solid black;
+}
